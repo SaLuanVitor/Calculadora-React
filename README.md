@@ -1,2 +1,2 @@
-# Calculadora-React
+# Calculadora-StyledComponent
 Created with CodeSandbox
